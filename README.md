@@ -1,6 +1,7 @@
 # **MoviesApp**
 
 A dynamic and responsive web application built with **React.js** to browse and discover movies. This project demonstrates core front-end development skills, including API integration, state management with React Hooks, and client-side routing and uses local storage to store the watch list. 
+All the code is avalable in master branch
 
 ## **🚀 Key Features**
 
